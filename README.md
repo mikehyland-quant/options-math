@@ -19,7 +19,7 @@ This code has all of the formulas needed to compute skew under the SIG's old wow
 
 
 
-# enrich-options-prices
+# Coming soon: enrich-options-prices
 This code enriches the market prices of a grid of options to non-arbitrage levels.
 
 Options markets are frequently incomplete in that market prices (bids and/or asks) are not shown for each available strike.  Additionally, it is often the case that the prices that are shown violate option arbitrage conditions (for example, when market bids  for options are so conservative that they imply negative time value).  This poor and/or lack of information can make it difficult to calibrate option volatility surfaces.
